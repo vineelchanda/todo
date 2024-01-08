@@ -1,0 +1,14 @@
+{
+  "networking": ["what is http", "REST", "web sockets", "SOAP"],
+  "leetcode": [],
+  "javascript": [],
+  "databases": [
+    "types"
+  ],
+  "frontend":[],
+  "messagging_queues":[],
+  "misc":[],
+  "frameworks":[],
+  "AI" :[],
+  "books":[],
+}
