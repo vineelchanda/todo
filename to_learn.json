@@ -1,14 +1,25 @@
 {
-  "networking": ["what is http", "REST", "web sockets", "SOAP"],
+  "networking": ["what is http", "REST", "web sockets", "SOAP", "encryption", "SHA", "TCP", "HTTP", "Websockets", "graphql"],
   "leetcode": [],
   "javascript": [],
   "databases": [
-    "types"
+    "types",
+    "SQL",
+    "postgress",
+    "sqlLite",
+    "mongodb"
   ],
-  "frontend":[],
+  "frontend":[
+    "React",
+    "Angular",
+    "Vite",
+    "Svelte",
+    "SveltKit"
+  ],
   "messagging_queues":[],
   "misc":[],
   "frameworks":[],
   "AI" :[],
   "books":[],
+  "OS" : ["Ports", "Processes","types", "how to choose"]
 }
